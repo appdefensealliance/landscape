@@ -1,8 +1,8 @@
 foundation: App Defense Alliance
-url: 
+url: null
 analytics:
   gtm:
-    container_id: 
+    container_id: null
 colors:
   color1: rgba(32, 145, 208, 1)
   color2: rgba(5, 85, 182, 1)
@@ -13,13 +13,13 @@ colors:
   color7: rgba(232, 244, 250, 1)
 footer:
   links:
-    facebook: 
+    facebook: null
     github: https://github.com/appdefensealliance
     homepage: https://www.appdefensealliance.org/
-    instagram:
-    linkedin:
-    twitter:
-    youtube: 
+    instagram: null
+    linkedin: null
+    twitter: null
+    youtube: null
   logo: https://aousd.org/wp-content/uploads/sites/28/2023/07/logo-vertical-white.svg
   text: >
     Copyright © App Defense Alliance. All rights reserved. App Defense Alliance is a [Joint Development Foundation Project](https://jointdevelopment.org/), an

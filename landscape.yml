@@ -1,0 +1,13 @@
+landscape:
+  - category:
+    name: Alliance Members
+    subcategories:
+      - subcategory:
+        name: Steering
+        items: []
+      - subcategory:
+        name: General
+        items: []
+      - subcategory:
+        name: Contributor
+        items: []
