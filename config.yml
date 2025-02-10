@@ -1,9 +1,9 @@
 landscapeMemberClasses: 
-   - name: Steering Membership
+   - name: Steering Member
      category: Steering
-   - name: General Membership
+   - name: General Member
      category: General
-   - name: Contributor Memberships
+   - name: Contributor Member
      category: Contributor
 slug: app-defense-alliance-fund
 landscapeMemberCategory: Alliance Members
