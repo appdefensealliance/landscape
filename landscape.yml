@@ -4,10 +4,454 @@ landscape:
     subcategories:
       - subcategory:
         name: Steering
-        items: []
+        items:
+          - item:
+            name: Google LLC
+            description: >-
+              Founded in 1998, Google, Inc. is a multinational corporation that provides Internet-related services and products, including an internet search
+              engine, software, cloud computing, and advertising technologies.
+            homepage_url: https://google.com/
+            logo: google_llc.svg
+            twitter: https://twitter.com/Google
+            crunchbase: https://www.crunchbase.com/organization/google
+            extra:
+              linkedin_url: https://www.linkedin.com/company/google
+          - item:
+            name: Meta Platforms, Inc.
+            description: >-
+              Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company
+              that provides various products to connect and share.
+            homepage_url: https://meta.com/
+            logo: meta_platforms_inc.svg
+            twitter: https://twitter.com/Meta
+            crunchbase: https://www.crunchbase.com/organization/facebook
+            extra:
+              linkedin_url: https://www.linkedin.com/company/facebook
+          - item:
+            name: Microsoft Corporation
+            description: >-
+              The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company
+              develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products
+              include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            twitter: https://twitter.com/Microsoft
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+            extra:
+              linkedin_url: https://www.linkedin.com/company/microsoft
       - subcategory:
         name: General
-        items: []
+        items:
+          - item:
+            name: Guangdong OPPO Mobile Telecommunications Corp., Ltd.
+            description: >-
+              Guangdong OPPO Mobile Telecommunications Corp., Ltd, commonly referred to as OPPO, is a Chinese consumer electronics and mobile communications
+              company headquartered in Dongguan, Guangdong, in China, and known for its smartphones, Blu-ray players and ot...
+            homepage_url: https://oppo.com/
+            logo: guangdong_oppo_mobile_telecommunications_corp_ltd.svg
+            twitter: https://twitter.com/oppo
+            crunchbase: https://www.crunchbase.com/organization/oppo
+            extra:
+              linkedin_url: https://www.linkedin.com/company/oppo
+          - item:
+            name: Praetorian Security Inc
+            description: >-
+              Praetorian is an information security consulting firm that proactively identifies and guides remediation of material risks to prevent evolving
+              cyber threats. They provide risk assessment, penetration testing, secure software development, and security e...
+            homepage_url: https://praetorian.com/
+            logo: praetorian_security_inc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/praetorian
+            organization:
+              name: Praetorian Security Inc
+              linkedin: https://www.linkedin.com/company/praetorian
+          - item:
+            name: Prescient Security
+            description: >-
+              Prescient Security is a CREST & PCI Certified testing company providing expert cybersecurity solutions for businesses of all sizes, specializing
+              in securing sensitive data and offering a range of security auditing services.
+            homepage_url: https://prescientsecurity.com/
+            logo: prescient_security.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/prescientsecurity
+            organization:
+              name: Prescient Security
+              linkedin: https://www.linkedin.com/company/prescientsecurity
+          - item:
+            name: TAC Security Inc
+            description: >-
+              TAC Security specializes in providing an AI-based vulnerability management platform that helps organizations, including Fortune 500 companies and
+              governments, effectively manage and mitigate risks associated with cybersecurity vulnerabilities.
+            homepage_url: https://tacsecurity.com/
+            logo: tac_security_inc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tacsecurity
+            organization:
+              name: TAC Security Inc
+              linkedin: https://www.linkedin.com/company/tacsecurity
+          - item:
+            name: Trend Micro Incorporated
+            description: >-
+              Trend Micro, a global leader in security software and solutions, strives to make the world safe for exchanging digital information. For the past
+              25 years, its employees have been inspired to protect individuals, families, businesses and governments as they look to harness the potential of
+              emerging technologies and new ways of sharing information.
+            homepage_url: https://trendmicro.com/
+            logo: trend_micro_incorporated.svg
+            twitter: https://twitter.com/TrendMicro
+            crunchbase: https://www.crunchbase.com/organization/trend-micro
+            extra:
+              linkedin_url: https://www.linkedin.com/company/trend-micro
+          - item:
+            name: ValueMentor
+            description: >-
+              ValueMentor is a global information security consulting and services company that specializes in Cyber Security and Payment Security Services.
+              With over 10 years of experience, we offer a full range of services including Cyber Consulting, Security Test...
+            homepage_url: https://valuementor.com/
+            logo: valuementor.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/valuementor
+            organization:
+              name: ValueMentor
+              linkedin: https://www.linkedin.com/company/valuementor
       - subcategory:
         name: Contributor
-        items: []
+        items:
+          - item:
+            name: Appknox
+            description: >-
+              Appknox is a leader in Mobile Application Security Testing (MAST), providing a powerful plug & play solution for enterprises to detect threats in
+              their mobile apps within minutes.
+            homepage_url: https://appknox.com/
+            logo: appknox.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/appknox-security
+            organization:
+              name: Appknox
+              linkedin: https://www.linkedin.com/company/appknox-security
+          - item:
+            name: atsec information security AB
+            description: >-
+              Atsec Information Security is an independent, privately owned company that specializes in laboratory testing, evaluation, validation, and
+              consulting services for information security. They cater to both commercial and government sectors worldwide, offe...
+            homepage_url: https://atsec.com/
+            logo: atsec_information_security_ab.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/atsec-information-security-corporation
+            organization:
+              name: atsec information security AB
+              linkedin: https://www.linkedin.com/company/atsec-information-security-corporation
+          - item:
+            name: Berilo
+            description: >-
+              Berilo provides premier cybersecurity solutions for Europe, offering network, web, and mobile app security evaluations, EMV chip card, PoS, and
+              ATM assessments. Their expert services, grounded in OWASP guidelines and cutting-edge techniques, ensure rob...
+            homepage_url: https://berilo.io/
+            logo: berilo.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/be-berilo
+            organization:
+              name: Berilo
+              linkedin: https://www.linkedin.com/company/be-berilo
+          - item:
+            name: Bishop Fox
+            description: >-
+              Bishop Fox is a global leader in offensive security, offering proactive defense solutions through continuous penetration testing, red teaming, and
+              attack surface management for businesses worldwide.
+            homepage_url: https://bishopfox.com/
+            logo: bishop_fox.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bishop-fox
+            organization:
+              name: Bishop Fox
+              linkedin: https://www.linkedin.com/company/bishop-fox
+          - item:
+            name: Blaze Information Security
+            description: Blaze Information Security is a global leader in offensive cybersecurity, providing elite ethical hacking services for organizations worldwide.
+            homepage_url: https://blazeinfosec.com/
+            logo: blaze_information_security.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/blaze-information-security
+            organization:
+              name: Blaze Information Security
+              linkedin: https://www.linkedin.com/company/blaze-information-security
+          - item:
+            name: CREST
+            description: >-
+              CREST is a global cyber security organization that assures quality and provides certifications to professionals, creating a secure digital world
+              through collaboration and accreditation.
+            homepage_url: https://crest-approved.org/
+            logo: crest.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/crest-approved
+            organization:
+              name: CREST
+              linkedin: https://www.linkedin.com/company/crest-approved
+          - item:
+            name: Cyber Rangers s.r.o.
+            description: >-
+              Cyber Rangers is a company that helps organizations and institutions prepare for cyber threats. They offer a range of services including testing,
+              training, advising, and education. Their goal is to make the world a safer place by armoring businesses wi...
+            homepage_url: https://cyber-rangers.com/
+            logo: cyber_rangers_s_r_o.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cyber-rangers
+            organization:
+              name: Cyber Rangers s.r.o.
+              linkedin: https://www.linkedin.com/company/cyber-rangers
+          - item:
+            name: CyRadar
+            description: >-
+              CyRadar is a leading cyber security company utilizing AI, Machine Learning, and Big Data for advanced security solutions, including Endpoint
+              Security, Reputation Graph Database, and Anomaly Detection to combat threats with 24/7 support.
+            homepage_url: https://cyradar.com/
+            logo: cyradar.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cyradar
+            organization:
+              name: CyRadar
+              linkedin: https://www.linkedin.com/company/cyradar
+          - item:
+            name: DEKRA Testing & Certification S.A.U
+            description: >-
+              DEKRA España: Leading experts in global safety and sustainability, offering inspection, testing, certification, and consultancy services for a
+              safer and more sustainable future.
+            homepage_url: https://dekra.es/es/home/
+            logo: dekra_testing_certification_s_a.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dekraespana
+            organization:
+              name: DEKRA Testing & Certification S.A.U
+              linkedin: https://www.linkedin.com/company/dekraespana
+          - item:
+            name: ESET spol. s r.o.
+            homepage_url: https://eset.com/
+            logo: eset_spol_s_r_o.svg
+            organization:
+              name: ESET spol. s r.o.
+          - item:
+            name: Eydle Inc
+            description: >-
+              Eydle Scam Protection Platform We protect enterprises and their customers from scams on social media. Use powerful visual analysis technology to
+              take down scams before they victimize your customers. No code, no installation, near zero false positives. ...
+            homepage_url: https://eydle.com/
+            logo: eydle_inc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/eydle
+            organization:
+              name: Eydle Inc
+              linkedin: https://www.linkedin.com/company/eydle
+          - item:
+            name: Hypori Inc
+            homepage_url: https://hypori.com/
+            logo: hypori_inc.svg
+            organization:
+              name: Hypori Inc
+          - item:
+            name: Lookout, Inc
+            description: >-
+              Lookout is a cybersecurity company offering endpoint to cloud security solutions, predicting and stopping mobile attacks to secure the digital
+              future with privacy and trust.
+            homepage_url: https://lookout.com/
+            logo: lookout_inc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/lookout
+            organization:
+              name: Lookout, Inc
+              linkedin: https://www.linkedin.com/company/lookout
+          - item:
+            name: Lugapel
+            description: >-
+              Lugapel provides cutting-edge application security solutions, ensuring fast and secure deployment of apps with minimal false positives. As the
+              main distributor in Latin America, they offer Checkmarx's powerful solutions for SAST, SCA, IAST, and Codebas...
+            homepage_url: https://lugapel.com/
+            logo: lugapel.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/lugapel
+            organization:
+              name: Lugapel
+              linkedin: https://www.linkedin.com/company/lugapel
+          - item:
+            name: Malloc
+            description: >-
+              Malloc provides comprehensive mobile security solutions designed to protect users from hackers, data trackers, and cyber criminals, ensuring
+              privacy and data security through features like spyware detection and a VPN service.
+            homepage_url: https://mallocprivacy.com/
+            logo: malloc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mallocprivacy
+            organization:
+              name: Malloc
+              linkedin: https://www.linkedin.com/company/mallocprivacy
+          - item:
+            name: Mobisec
+            description: >-
+              Mobisec is a unique Mobile Security Platform offering dynamic Mobile Security Analysis and Mobile App Security Testing services with automation
+              and AI integration for developers.
+            homepage_url: https://mobisec.com/
+            logo: mobisec.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mobisec-usa
+            organization:
+              name: Mobisec
+              linkedin: https://www.linkedin.com/company/mobisec-usa
+          - item:
+            name: NCC Group
+            description: >-
+              NCC Group Plc is a United Kingdom-based information assurance company. The Company is engaged in providing escrow, verification, security
+              consulting, website performance, software testing and domain services across the world. It has three segments: Group Escrow, Assurance Testing and
+              Domain Services. The Company provides end-to-end information assurance for over 15,000 organizations across the world. NCC Group Escrow includes
+              software, which escrow protects software application source code, including websites and web applications; escrow as a service enables an
+              organization to balance risk and protect its investment in the cloud, and information escrow protects product designs, manufacturing processes,
+              marketing materials and industrial formulae. NCC Group Domain Services offers a domain, which provides a safer, trustworthy Internet. The Company
+              also offers registry and registrar services.
+            homepage_url: https://nccgroup.com/
+            logo: ncc_group.svg
+            twitter: https://twitter.com/NCCGroupplc
+            crunchbase: https://www.crunchbase.com/organization/ncc-group
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ncc-group
+          - item:
+            name: NetSentries Technologies FZCO
+            description: >-
+              NetSentries is a leading Cyber Security startup offering cutting-edge offensive security solutions tailored for banking and enterprise sectors,
+              with a global presence in Bangalore.
+            homepage_url: https://netsentries.com/
+            logo: netsentries_technologies_fzco.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/netsentries
+            organization:
+              name: NetSentries Technologies FZCO
+              linkedin: https://www.linkedin.com/company/netsentries
+          - item:
+            name: NowSecure, Inc.
+            description: >-
+              NowSecure is a mobile security app testing software company that provides automated software and professional services to make mobile app security
+              testing easier to scale. Their mission is to protect the world from harm caused by risky mobile apps. Now...
+
+
+              --- Merged Data:
+
+
+              NowSecure is a mobile security app testing software company that provides automated software and professional services to make mobile app security
+              testing easier to scale. Their mission is to protect the world from harm caused by risky mobile apps. Now...
+            homepage_url: https://nowsecure.com/
+            logo: nowsecure_inc.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nowsecure
+            organization:
+              name: NowSecure, Inc.
+              linkedin: https://www.linkedin.com/company/nowsecure
+          - item:
+            name: OpenPolicy
+            description: >-
+              OpenPolicy is a company dedicated to making policymaking accessible, affordable, and inclusive for all. They aim to empower individuals with a
+              voice and help policymakers make informed decisions for the future of the economy and society. OpenPolicy col...
+            homepage_url: https://openpolicygroup.com/
+            logo: openpolicy.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/openpolicygroup
+            organization:
+              name: OpenPolicy
+              linkedin: https://www.linkedin.com/company/openpolicygroup
+          - item:
+            name: Ostorlab
+            description: 'Ostorlab: Leading mobile app security testing tool trusted by 4500+ developers globally for accurate vulnerability detection and automation.'
+            homepage_url: https://ostorlab.co/
+            logo: ostorlab.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ostorlab
+            organization:
+              name: Ostorlab
+              linkedin: https://www.linkedin.com/company/ostorlab
+          - item:
+            name: Palindrome Technologies
+            description: >-
+              Palindrome Technologies offers comprehensive cybersecurity services to businesses and governments, specializing in Emerging Technologies Security
+              Research and Risk Management programs.
+            homepage_url: https://palindrometech.com/
+            logo: palindrome_technologies.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/palindrometech
+            organization:
+              name: Palindrome Technologies
+              linkedin: https://www.linkedin.com/company/palindrometech
+          - item:
+            name: Payatu
+            description: >-
+              Payatu is a leading company in the field of Information Security, offering a wide range of courses and services. They provide specialized training
+              in Ethical Hacking, Web Hacking, Email Security, and more, tailored to individual and government needs. W...
+            homepage_url: https://payatu.com/
+            logo: payatu.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/payatu
+            organization:
+              name: Payatu
+              linkedin: https://www.linkedin.com/company/payatu
+          - item:
+            name: RootShell Security
+            description: >-
+              Rootshell Security offers next-gen vulnerability management solutions through their Prism Platform, integrating AI-led intelligence and red team
+              assessments to fortify clients against cyber threats.
+            homepage_url: https://rootshellsecurity.net/
+            logo: rootshell_security.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rootshell-security
+            organization:
+              name: RootShell Security
+              linkedin: https://www.linkedin.com/company/rootshell-security
+          - item:
+            name: Schellman & Company, LLC
+            description: Schellman & Company, LLC
+            homepage_url: https://schellman.com/
+            logo: schellman_company_llc.svg
+            twitter: https://twitter.com/Schellman
+            crunchbase: https://www.crunchbase.com/organization/schellman-company-llc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/schellman
+          - item:
+            name: Security Brigade InfoSec Private Limited
+            description: >-
+              Security Brigade is a Mumbai-based information security consulting firm founded in 2006. They specialize in expert-driven manual testing for web
+              application security and network security.
+            homepage_url: https://securitybrigade.com/
+            logo: security_brigade_infosec_private_limited.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/security-brigade
+            organization:
+              name: Security Brigade InfoSec Private Limited
+              linkedin: https://www.linkedin.com/company/security-brigade
+          - item:
+            name: TrustCB
+            description: >-
+              TrustCB is a Certification Body ensuring high assurance, unquestionable certification for IT security products and services in an accelerated
+              timeframe, reducing financial risks and complying with ISO/IEC 17065:2012 standards.
+            homepage_url: https://trustcb.com/
+            logo: trustcb.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/trustcb
+            organization:
+              name: TrustCB
+              linkedin: https://www.linkedin.com/company/trustcb
+          - item:
+            name: Virtual Dimension Center (VDC) w. V., Fellbach
+            description: >-
+              Germany's leading network for Virtual Engineering, promoting collaboration in 3D technologies and Virtual Reality to enhance innovation and
+              productivity.
+            homepage_url: https://vdc-fellbach.de/
+            logo: virtual_dimension_center_vdc_w_v.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/virtual-dimension-center-vdc-fellbach
+            organization:
+              name: Virtual Dimension Center (VDC) w. V., Fellbach
+              linkedin: https://www.linkedin.com/company/virtual-dimension-center-vdc-fellbach
+          - item:
+            name: Zimperium
+            description: >-
+              Zimperium's Mobile Security Solutions provide enterprises with protection for mobile devices and apps against the next generation of mobile cyber
+              attacks.
+            homepage_url: https://zimperium.com/
+            logo: zimperium.svg
+            twitter: https://twitter.com/Zimperium
+            crunchbase: https://www.crunchbase.com/organization/zimperium
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zimperium
