@@ -388,6 +388,18 @@ landscape:
               name: Payatu
               linkedin: https://www.linkedin.com/company/payatu
           - item:
+            name: RedHunt Labs
+            description: >-
+              RedHunt Labs provides advanced cybersecurity solutions, specializing in a SaaS product called NVADR that offers comprehensive Attack Surface
+              Management to help organizations identify and mitigate cyber threats while securing their digital assets.
+            homepage_url: https://redhuntlabs.com/
+            logo: redhunt_labs.svg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/redhunt-labs
+            organization:
+              name: RedHunt Labs
+              linkedin: https://www.linkedin.com/company/redhunt-labs
+          - item:
             name: RootShell Security
             description: >-
               Rootshell Security offers next-gen vulnerability management solutions through their Prism Platform, integrating AI-led intelligence and red team
